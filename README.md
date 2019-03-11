@@ -11,5 +11,5 @@ And follow the instructions.
 
 ## License
 
-This project is free to use according to the [MIT License](https://github.com/francnascimento/DiceSimulator/blob/master/LICENSE.md) as long as you cite me and the License (read the License for more details). You can cite me by pointing to the following link:
-- https://github.com/francnascimento/DiceSimulator
+This project is free to use according to the [MIT License](https://github.com/francnascimento/dice-simulator/blob/master/LICENSE.md) as long as you cite me and the License (read the License for more details). You can cite me by pointing to the following link:
+- https://github.com/francnascimento/dice-simulator
